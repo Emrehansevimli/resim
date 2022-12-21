@@ -7,10 +7,9 @@
     <title>Document</title>
 </head>
 <body>
-    <video width="360" height="320" controls="controls">
-  <source src="inlenre.mp4" type="video/mp4" />
+    
   
-  Tarayıcınız video etiketini desteklemiyor.
+  
 </video>
 </body>
 </html>
