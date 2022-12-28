@@ -9,7 +9,7 @@
 <body>
     <h> Resim düzenleme programı</h>
     <p> bu projemde php ile resim düzenleme uygulaması yaptım genel olarak projemde admin paneli resim yükleme silme ve admin panelinden galleri tarzı bir program mevcut</p>
-  
+  <a href="https://emrehansevimli.github.io/">projenin anlatımına burdan ulaşabilirsiniz.</a>
 </video>
 </body>
 </html>
