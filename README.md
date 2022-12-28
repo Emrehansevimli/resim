@@ -8,7 +8,7 @@
 </head>
 <body>
     <h> Resim düzenleme programı</h>
-  
+    <p> bu projemde php ile resim düzenleme uygulaması yaptım genel olarak projemde admin paneli resim yükleme silme ve admin panelinden galleri tarzı bir program mevcut</p>
   
 </video>
 </body>
