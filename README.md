@@ -7,7 +7,7 @@
     
 </head>
 <body>
-    
+    <h> Resim düzenleme programı</h>
   
   
 </video>
