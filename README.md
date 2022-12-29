@@ -13,6 +13,9 @@
   <a href="https://emrehansevimli.github.io/">projenin anlatımına burdan ulaşabilirsiniz.</a>
     <h1>Projeyi Çalıştırma</h1>
     <p>Veri tabanında editor adlı veri tabanı oluşturmalısınız.Tablo da 2 sütun olcak şekilde resim_id ve resim_ad olmalı. </p>
+    <h1>Uyarlanan Yerler</h1>
+    <p> Admin giriş panelini https://www.php.net/ den uyarladım </p>
+    
 </video>
 </body>
 </html>
